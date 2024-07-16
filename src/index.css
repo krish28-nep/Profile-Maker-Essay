@@ -1,0 +1,62 @@
+.container{
+    max-width: 500px;
+}
+    
+body{
+    background: linear-gradient(to right, #1a2980, #26d0ce);
+    color:white;
+    font-family: "Prompt", sans-serif;
+    font-weight: 100;
+    font-style: normal;
+}
+select,option,input,textarea{
+    width: 200px;
+    height: 30px;
+    border-radius: 10px;
+    font-size: 1.3rem;
+    background: linear-gradient(to right, #a18cd1, #fbc2eb);
+}
+
+div{
+    margin: 5px;
+
+}
+.collegeInput{
+    width: 300px;
+}
+
+
+.Name{
+    display: inline-block;
+    margin:0px 5px;
+    
+}
+
+.Age{
+    margin: 5px;
+    
+}
+
+
+.ageInput{
+    width: 40px;
+}
+
+.comment{
+    margin-top:10px;
+    width: 400px;
+    height: auto;
+
+}
+
+input[type="radio"]{
+    width:18px;
+    height:18px;
+    margin-top: 10px;
+
+}
+
+
+
+
+
